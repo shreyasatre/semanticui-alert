@@ -1,1 +1,1 @@
-[https://shreyasatre.github.io/projects/semanticuialert/](Demo)
+[Demo](https://shreyasatre.github.io/projects/semanticuialert/)
